@@ -547,3 +547,8 @@ Semua perubahan penting di repo ini dicatat di sini.
 
 - Menambahkan dokumentasi iterasi ke-19 pada proses pengejaran achievement.
 - Referensi: Pull Shark / YOLO / Pair Extraordinaire.
+
+## 2026-11-12 — catatan #20
+
+- Menambahkan dokumentasi iterasi ke-20 pada proses pengejaran achievement.
+- Referensi: Pull Shark / YOLO / Pair Extraordinaire.
