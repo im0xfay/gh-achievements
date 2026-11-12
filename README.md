@@ -68,3 +68,14 @@ python3 setup.py --workdir ~/somewhere
 - Trailer diverifikasi ulang lewat `git log -1 --pretty=%B` sebelum push — kalau hilang,
   commit tidak dilanjutkan.
 - Semua panggilan eksternal (`git`, `gh`) punya timeout 180 s dan error ditangani, bukan crash.
+
+## Status Pengejaran (2026-11-12)
+
+| Badge | Progress | Status |
+|---|---|---|
+| Pull Shark | 15 PR merged | Bronze tercapai, menuju Silver (16) |
+| YOLO | 15 merge tanpa review | Bronze tercapai (1) |
+| Pair Extraordinaire | 10 commit co-authored | Bronze + Silver tercapai (10) |
+| Quickdraw | issue ditutup 6 detik | Bronze tercapai (1) |
+
+Badge tampil di `https://github.com/im0xfay?tab=achievements`.
