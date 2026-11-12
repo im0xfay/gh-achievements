@@ -71,11 +71,14 @@ python3 setup.py --workdir ~/somewhere
 
 ## Status Pengejaran (2026-11-12)
 
-| Badge | Progress | Status |
+| Badge | Progress | Level tercapai |
 |---|---|---|
-| Pull Shark | 15 PR merged | Bronze tercapai, menuju Silver (16) |
-| YOLO | 15 merge tanpa review | Bronze tercapai (1) |
-| Pair Extraordinaire | 10 commit co-authored | Bronze + Silver tercapai (10) |
-| Quickdraw | issue ditutup 6 detik | Bronze tercapai (1) |
+| Pull Shark | 30 PR merged | Silver (16) — menuju Gold (128) |
+| YOLO | 30 merge tanpa review | Bronze (1), Gold (2) |
+| Pair Extraordinaire | 26 commit co-authored | Gold (24) |
+| Quickdraw | issue ditutup 6 detik | Bronze (1) |
+
+Bukti server-side (`contributionsCollection`): `totalPullRequestContributions: 30`,
+`totalPullRequestReviewContributions: 0`.
 
 Badge tampil di `https://github.com/im0xfay?tab=achievements`.
