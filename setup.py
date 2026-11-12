@@ -26,9 +26,12 @@ from datetime import datetime, timezone
 # ---------------------------------------------------------------- config
 
 REPO_NAME = "gh-achievements"
-# Co-author default: akun kedua yang sah (isi sendiri kalau punya).
-# Format: (Nama, email-atau-noreply-github)
-DEFAULT_COAUTHOR = ("im0xfay", "181461+im0xfay@users.noreply.github.com")
+# Co-author: akun GitHub kedua (wajib berbeda dari akun utama agar dihitung
+# Pair Extraordinaire). Format: (username, noreply-email)
+DEFAULT_COAUTHOR = (
+    "jesiedinz66-arch",
+    "355881644+jesiedinz66-arch@users.noreply.github.com",
+)
 
 TOPICS = [
     "github-achievements",
